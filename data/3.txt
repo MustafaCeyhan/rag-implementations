@@ -1,1 +1,0 @@
-Machine learning (ML) is a subset of AI that enables systems to learn from data and improve their performance over time without explicit programming. Deep learning, a further subset of ML, uses artificial neural networks to mimic human brain functions. These technologies power applications like speech recognition, self-driving cars, and recommendation systems.

@@ -1,1 +1,0 @@
-While AI offers many benefits, it also raises ethical concerns. Bias in AI models can lead to discrimination in hiring, law enforcement, and loan approvals. Additionally, issues like data privacy, surveillance, and the impact of AI on employment are major concerns. Ensuring AI systems are transparent, fair, and accountable is a critical challenge for developers and policymakers.
